@@ -1,2 +1,2 @@
 # cse-prac1
-intresting
+Kristina Ausen
